@@ -2,7 +2,7 @@
 layout: post
 title: Kripto Varlık Cüzdanları
 subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
+gh-repo: boraaoz/boraaoz.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
