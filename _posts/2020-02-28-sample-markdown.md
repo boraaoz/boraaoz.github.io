@@ -1,95 +1,65 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
+title: Kripto Varlık Cüzdanları
 subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
+gh-repo: boraaoz/boraaoz.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Bora Özdek
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Kripto Varlık Cüzdanları
+========================
 
-**Here is some bold text**
+[![Bora Özdek](https://miro.medium.com/v2/resize:fill:88:88/1*cCDu9kTFN21yPx3OWyvgsA.jpeg)
 
-## Here is a secondary heading
+](https://medium.com/?source=post_page-----559a3291b5e5--------------------------------)
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+[Bora Özdek](https://medium.com/?source=post_page-----559a3291b5e5--------------------------------)
 
-Here's a table:
+·
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fee398d3e375a&operation=register&redirect=https%3A%2F%2Fboraoz.medium.com%2Fkripto-varl%C4%B1k-c%C3%BCzdanlar%C4%B1-559a3291b5e5&user=Bora+%C3%96zdek&userId=ee398d3e375a&source=post_page-ee398d3e375a----559a3291b5e5---------------------post_header-----------)
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+3 min read·1 day ago[
 
-How about a yummy crepe?
+](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F559a3291b5e5&operation=register&redirect=https%3A%2F%2Fboraoz.medium.com%2Fkripto-varl%25C4%25B1k-c%25C3%25BCzdanlar%25C4%25B1-559a3291b5e5&user=Bora+%C3%96zdek&userId=ee398d3e375a&source=-----559a3291b5e5---------------------clap_footer-----------)
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+\--
 
-It can also be centered!
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F559a3291b5e5&operation=register&redirect=https%3A%2F%2Fboraoz.medium.com%2Fkripto-varl%25C4%25B1k-c%25C3%25BCzdanlar%25C4%25B1-559a3291b5e5&source=-----559a3291b5e5---------------------bookmark_footer-----------)
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+Share
 
-Here's a code chunk:
+Kripto varlık cüzdanları, kısa bir tanımla, açık ve özel anahtarları saklama araçlarıdır. Blokzincir ile etkileşime girmeyi ve eşler arası kriptopara gönderme ve almayı sağlarlar. Fiziksel olarak kullandığımız cüzdanların aksine kriptovarlık cüzdanlarında, kriptovarlıklar saklanmaz. Kripto varlıklar, yalnızca blokzincirde kayıt edilen işlemlerin verileridir. Bu durumu daha iyi kavrayabilmek için bankaların kullandığı sistem ile benzerliğine bakılabilir. Bankalar da bütün paraları fiziksel olarak saklamaz, yapılan işlemlerin ve bakiyelerin kayıtlarını tutarlar. Kripto varlık gönderme ve alma işlemlerinde de işler gerçek bir takas gibi işlemez, kullanıcılar, cüzdanda saklanan özel anahtarı kullanarak varlıkların kilitlerini açarlar ve göndereceği kişinin açık anahtarını (adresini) girerek varlığın sahibini değiştirirler. Bu işlemlerin verileri blokzincirde oluşur.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+İşlem örneği
 
-And here is the same code with syntax highlighting:
+Kripto varlık cüzdanlarını, Açık Anahtar (Public Key), Özel Anahtar (Private Key) ve Gizli Sözcük Öbeği (Mnemonic Seed Phrase) oluşturur.
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+Cüzdan Yapısı
 
-And here is the same code yet again but with line numbers:
+**Açık Anahtar :** Diğer kullanıcılarla paylaştığınız cüzdan adreslerinizdir.
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+**Özel Anahtar:** Cüzdanınızdaki kripto varlıklarla işlem yapmanızı sağlayan anahtarlardır. Kimseyle paylaşılmaması gereklidir.
 
-## Boxes
-You can add notification, warning and error boxes like this:
+**Gizli Sözcük Öbeği:** Gizli sözcük öbeği, kripto para cüzdanınız tarafından üretilen ve o cüzdanla ilişkili kripto varlıklara erişmenizi sağlayan bir dizi kelimedir. Kimseyle paylaşılmaması gereklidir.
 
-### Notification
+Genel olarak cüzdanlardan ve cüzdan yapısından bahsettiğimize göre cüzdan tiplerini inceleyebiliriz. Teknik olarak cüzdanları üç kategoriye ayrılır: Yazılım Cüzdanları, Donanım Cüzdanları ve Kağıt/Hafıza Cüzdanları.
 
-{: .box-note}
-**Note:** This is a notification box.
+**1) Yazılım Cüzdanları:** Yazılım cüzdanları, private key ve public keyi saklayan uygulamalardır. Kriptopara işlemlerini kontrol ederler, kriptopara göndermek, almak ve sahip olduğunuz kriptopara fonlarını görmek için arayüz sunarlar. Yazılım cüzdanlarınında farklı tiplerinden bahsedebiliriz.
 
-### Warning
+Masaüstü Cüzdanları: Masaüstü cüzdanları bilgisayarın, telefonun veya tabletin sabit sürücüsüne indirilebilen uygulamalardır. Özel anahtarlar, uygulamalarda genelde şifrelenmiş bir şekilde cüzdan dosyalarında tutulur ve anahtarların kontrolünü size bırakır. Bilgisayar, telefon veya tabletinize zararlı bir yazılım bulaştığında veya cihazınıza kötü niyetli bir kişi erişim sağladığında özel anahtarlarızın kaybolma veya çalınma riski vardır.
 
-{: .box-warning}
-**Warning:** This is a warning box.
+Web Cüzdanları: Web cüzdanları, web tarayıcınızdan erişebildiğiniz cüzdanlardır. Özel anahtarlar kullanıcının kontrolü aksine, sunucularda tutulur, yani üçüncü parti şahıslar tarafından kontrol edilir. İnternet bağlantısına ihtiyaç duymanız ve özel anahtarlarınızın sunucularda tutulması, bu tür cüzdanları diğer cüzdanların aksine güvensiz kılar. Borsalarda kullanılan cüzdanlar, web cüzdanlarının örneğidir.
 
-### Error
+**2) Donanım Cüzdanları:** Donanım cüzdanlarında özel anahtarlar çevrimdışı bir şekilde özel donanımlarda saklanır. Genellikle, bilgisayara USB arabirimi aracılığıyla bağlanırlar ve PIN kodları gibi güvenlik özellikleri içerirler. Donanım cüzdanlarında işlemler, donanımdaki (örneğin, ARM TrustZone) güvenilir bir hesaplama ortamında imzalanır ve özel anahtarlar ana bilgisayara gösterilmez. İmzalanan işlemler, donanım cüzdanının satıcısı tarafından sağlanan belirli bir API aracılığıyla cüzdan uygulamasına iletilir. Özel anahtarlara ana bilgisayardaki kötü amaçlı yazılımlar tarafından erişilemediği için, donanım cüzdanları çevrimiçi saldırılara karşı korumalıdır. Donanım cüzdanlarına Trezor ve Ledger Nano S örnek gösterilebilir.
 
-{: .box-error}
-**Error:** This is an error box.
+**3) Kağıt ve Hafıza Cüzdanları:** Kağıt cüzdanlar, özel anahtarlarınızın bir kağıda yazılı bir şekilde saklandığı cüzdanlardır. Benzer şekilde Hafıza cüzdanları da “mnemonic seed phrase” leri akılda tutarak keylere ulaşılan cüzdanlardır. Kelimeleri farklı hafıza teknikleri kullanılarak hafızanızda tutabilirsiniz. Örneğin, sırasıyla kelimelerden bir hikaye oluşturmak, “mnemonic seed phrase” hatırlamanıza yardımcı olacaktır. Kağıt ve Hafıza cüzdanları soğuk cüzdan örneği olduklarından, online işlemlerde bulunmazlar böylece internetteki tehditelere karşı korumalıdır. Fakat keylerin bulunduğu kağıdı kaybetmeniz veya hafızanızdaki “mnemonic seed phrase” unutursanız, özel anahtarlarınızı kaybedersiniz.
 
-## Local URLs in project sites {#local-urls}
+Özet olarak, her cüzdan türünün kendine özgü avantajları ve dezavantajları var. Örneğin, web cüzdanları kullanım kolaylığı sunarken, güvenlik riskleri taşıyabilir. Donanım cüzdanları ise yüksek güvenlik sağlar ancak fiziksel bir cihaz gerektirir. Kağıt veya hafıza cüzdanları ise çevrimdışı saklama imkanı sunar ancak fiziksel bir nesne ya da hafıza gerektirir.
 
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+[**_Contact with me!_**](http://boraaoz.github.io)
+--------------------------------------------------
