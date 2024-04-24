@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Samplesample blog post to learn markdown tips
+title: Kripto Varlık Cüzdanları
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Bora Özdek
 ---
 
 Kripto Varlık Cüzdanları
