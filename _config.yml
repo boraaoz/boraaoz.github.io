@@ -20,7 +20,11 @@ author: Bora Özdek
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "about"
+  Projects: "projects"
+  Awards: "awards"
+  Press: "press"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
@@ -51,7 +55,7 @@ social-network-links:
 # facebook: deanattali
   github: boraaoz
   twitter: boraaoz
-  whatsapp: 5388858959
+# whatsapp: 5388858959
   medium: boraaoz
 #  reddit: yourname
   linkedin: boraaoz

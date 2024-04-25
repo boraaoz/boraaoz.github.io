@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Kripto Varlık Cüzdanları
-subtitle: There's lots to learn!
+subtitle: Kripto varlık cüzdanları nelerdir, çeşitleri ve çalışma prensibleri.
+cover-img: /assets/img/cryptocurrency_wallet.jpg
 gh-repo: boraaoz/boraaoz.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -12,26 +13,6 @@ author: Bora Özdek
 
 Kripto Varlık Cüzdanları
 ========================
-
-[![Bora Özdek](https://miro.medium.com/v2/resize:fill:88:88/1*cCDu9kTFN21yPx3OWyvgsA.jpeg)
-
-](https://medium.com/?source=post_page-----559a3291b5e5--------------------------------)
-
-[Bora Özdek](https://medium.com/?source=post_page-----559a3291b5e5--------------------------------)
-
-·
-
-[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fee398d3e375a&operation=register&redirect=https%3A%2F%2Fboraoz.medium.com%2Fkripto-varl%C4%B1k-c%C3%BCzdanlar%C4%B1-559a3291b5e5&user=Bora+%C3%96zdek&userId=ee398d3e375a&source=post_page-ee398d3e375a----559a3291b5e5---------------------post_header-----------)
-
-3 min read·1 day ago[
-
-](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F559a3291b5e5&operation=register&redirect=https%3A%2F%2Fboraoz.medium.com%2Fkripto-varl%25C4%25B1k-c%25C3%25BCzdanlar%25C4%25B1-559a3291b5e5&user=Bora+%C3%96zdek&userId=ee398d3e375a&source=-----559a3291b5e5---------------------clap_footer-----------)
-
-\--
-
-[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F559a3291b5e5&operation=register&redirect=https%3A%2F%2Fboraoz.medium.com%2Fkripto-varl%25C4%25B1k-c%25C3%25BCzdanlar%25C4%25B1-559a3291b5e5&source=-----559a3291b5e5---------------------bookmark_footer-----------)
-
-Share
 
 Kripto varlık cüzdanları, kısa bir tanımla, açık ve özel anahtarları saklama araçlarıdır. Blokzincir ile etkileşime girmeyi ve eşler arası kriptopara gönderme ve almayı sağlarlar. Fiziksel olarak kullandığımız cüzdanların aksine kriptovarlık cüzdanlarında, kriptovarlıklar saklanmaz. Kripto varlıklar, yalnızca blokzincirde kayıt edilen işlemlerin verileridir. Bu durumu daha iyi kavrayabilmek için bankaların kullandığı sistem ile benzerliğine bakılabilir. Bankalar da bütün paraları fiziksel olarak saklamaz, yapılan işlemlerin ve bakiyelerin kayıtlarını tutarlar. Kripto varlık gönderme ve alma işlemlerinde de işler gerçek bir takas gibi işlemez, kullanıcılar, cüzdanda saklanan özel anahtarı kullanarak varlıkların kilitlerini açarlar ve göndereceği kişinin açık anahtarını (adresini) girerek varlığın sahibini değiştirirler. Bu işlemlerin verileri blokzincirde oluşur.
 
