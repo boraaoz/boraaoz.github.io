@@ -1,12 +1,7 @@
 ---
 layout: post
-title: Kripto Varlık Cüzdanları
-subtitle: There's lots to learn!
-gh-repo: boraaoz/boraaoz.github.io
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
+title: Kriptografik Hash (Özet) Fonksiyonları
+subtitle: Hash fonksiyonları nedir, blok zincirde kullanım alanları nelerdir?
 author: Bora Özdek
 ---
 
