@@ -2,7 +2,6 @@
 layout: post
 title: Kriptografik Hash (Özet) Fonksiyonları
 subtitle: Hash fonksiyonları nedir, blok zincirde kullanım alanları nelerdir?
-author: Bora Özdek
 ---
 
 Kriptografik Hash (Özet) Fonksiyonlar**ı**
