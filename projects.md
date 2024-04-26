@@ -5,9 +5,15 @@ subtitle: Projects that I have worked on
 ---
 
 
-[![](https://i.imgur.com/UUtpUIN.png)](https://voguard-preview.vercel.app/)
-[![](https://i.imgur.com/cY4SaVU.png)](https://trucer.vercel.app/)
-[![](https://i.imgur.com/ZvTpnQb.png)](https://bitwear.store)
+[![](https://i.imgur.com/Lg0JbhM.png)](https://voguard-preview.vercel.app/)
+
+> Voguard combines NFC and Blockchain technology to authenticate the originality physical products and securely track ownerships records.
+
+[![](https://i.imgur.com/DGUrSoJ.png)](https://trucer.vercel.app/)
+> Voguard combines NFC and Blockchain technology to authenticate the originality physical products and securely track ownerships records.
+
+[![](https://i.imgur.com/reFMNvq.png)](https://bitwear.store)
+> Voguard combines NFC and Blockchain technology to authenticate the originality physical products and securely track ownerships records.
 
 
 
