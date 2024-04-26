@@ -20,12 +20,11 @@ Novel Biotechnological Approach for Recognition and Purification of Antibody: Le
 <br />
 <br />
 
-[![Bloomberg - Üniversite Blockchain Toplulukları](blob:https://imgur.com/0f917fe9-2651-4a01-95ff-4c1723fe6079)](https://youtu.be/G0-Y3UBu9t0)
+[![Bloomberg - Üniversite Blockchain Toplulukları](https://i.ibb.co/bHDYrL9/Screenshot-2024-04-26-at-21-04-45.png)](https://youtu.be/G0-Y3UBu9t0)
 
 <br />
 <br />
 
-#### [Hürriyet - TISF] (https://www.hurriyet.com.tr/egitim/lise-ogrencisi-tayvanda-ucuncu-oldu-40734580) 
-#### [Sabah - TISF] (https://www.sabah.com.tr/egeli/2018/02/08/bora-izmirin-gururu-oldu) 
-#### [Yeni Asır  - TISF] (https://www.yeniasir.com.tr/yasam/2018/02/07/lise-ogrencisinin-uluslararasi-basarisi
-)
+#### [!(Hürriyet - TISF)] (https://www.hurriyet.com.tr/egitim/lise-ogrencisi-tayvanda-ucuncu-oldu-40734580) 
+#### [!(Sabah - TISF)] (https://www.sabah.com.tr/egeli/2018/02/08/bora-izmirin-gururu-oldu) 
+#### [!(Yeni Asır  - TISF)] (https://www.yeniasir.com.tr/yasam/2018/02/07/lise-ogrencisinin-uluslararasi-basarisi)
