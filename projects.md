@@ -5,4 +5,4 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 
-[![N|Solid](https://pbs.twimg.com/profile_images/1735009471259082752/S30gyMZk_400x400.jpg)](https://bitwear.store)
+[![](https://pbs.twimg.com/profile_images/1735009471259082752/S30gyMZk_400x400.jpg)](https://bitwear.store)
