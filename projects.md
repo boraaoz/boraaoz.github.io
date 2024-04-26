@@ -1,8 +1,13 @@
 ---
 layout: page
 title: Projects
-subtitle: Why you'd want to go on a date with me
+subtitle: Projects that I have worked on
 ---
 
 
-[![](https://i.imgur.com/g44LE3A.png)](https://bitwear.store)
+[![](https://i.imgur.com/UUtpUIN.png)](https://voguard-preview.vercel.app/)
+[![](https://i.imgur.com/cY4SaVU.png)](https://trucer.vercel.app/)
+[![](https://i.imgur.com/ZvTpnQb.png)](https://bitwear.store)
+
+
+
