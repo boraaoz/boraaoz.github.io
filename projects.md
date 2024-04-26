@@ -10,15 +10,14 @@ subtitle: Projects that I have worked on
 
 > Voguard combines NFC and Blockchain technology to authenticate the originality physical products and securely track ownerships 
 records.
-***
-
-
+----
+----
+----
+----
 
 [![](https://i.imgur.com/DGUrSoJ.png)](https://trucer.vercel.app/)
 
 > Trucer is a blockchain-based certificate integrity platform that preventing forgery and ensuring their authenticity.
-***
-
 
 
 [![](https://i.imgur.com/pBTDI4j.png)](https://bitwear.store)
