@@ -22,9 +22,8 @@ author: Bora Özdek
 navbar-links:
   About: "about"
   Projects: "projects"
-  Awards: "awards"
-  Press: "press"
-  Contact: "contact"
+  Awards & Press: "awards-press"
+
 
 ################
 # --- Logo --- #
