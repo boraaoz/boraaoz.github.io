@@ -17,17 +17,14 @@ title: Awards & Press
 > Novel Biotechnological Approach for Recognition and Purification of Antibody: Lectin Affinity Membranes
 
 ## Press
-[Hürriyet - TISF](https://www.hurriyet.com.tr/egitim/lise-ogrencisi-tayvanda-ucuncu-oldu-40734580) <br />
-[Sabah - TISF](https://www.sabah.com.tr/egeli/2018/02/08/bora-izmirin-gururu-oldu) <br />
-[Yeni Asır  - TISF](https://www.yeniasir.com.tr/yasam/2018/02/07/lise-ogrencisinin-uluslararasi-basarisi)
+* [Hürriyet Daily News - Taiwan International Science Fair ](https://www.hurriyet.com.tr/egitim/lise-ogrencisi-tayvanda-ucuncu-oldu-40734580) <br />
+* [Sabah Daily News - TISF](https://www.sabah.com.tr/egeli/2018/02/08/bora-izmirin-gururu-oldu) <br />
+* [Yeni Asır Daily News - TISF](https://www.yeniasir.com.tr/yasam/2018/02/07/lise-ogrencisinin-uluslararasi-basarisi)
 <br />
 <br />
 
 [![Bi ODTÜ'lüye Sorduk](https://i.imgur.com/MhYK86c.jpeg)](https://youtu.be/LUQjGP8Goh8)
 >Bi ODTÜ'lüye Sorduk
-
-<br />
-<br />
 
 [![Bloomberg - Üniversite Blockchain Toplulukları](https://i.ibb.co/bHDYrL9/Screenshot-2024-04-26-at-21-04-45.png)](https://youtu.be/G0-Y3UBu9t0)
 >Bloomberg - Üniversite Blockchain Toplulukları
