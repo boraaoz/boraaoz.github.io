@@ -24,11 +24,13 @@ title: Awards & Press
 <br />
 <br />
 
+[![Bloomberg - Üniversite Blockchain Toplulukları](https://i.ibb.co/bHDYrL9/Screenshot-2024-04-26-at-21-04-45.png)](https://youtu.be/G0-Y3UBu9t0)
+>Bloomberg - Üniversite Blockchain Toplulukları
+
 [![Bi ODTÜ'lüye Sorduk](https://i.imgur.com/MhYK86c.jpeg)](https://youtu.be/LUQjGP8Goh8)
 >Bi ODTÜ'lüye Sorduk
 
-[![Bloomberg - Üniversite Blockchain Toplulukları](https://i.ibb.co/bHDYrL9/Screenshot-2024-04-26-at-21-04-45.png)](https://youtu.be/G0-Y3UBu9t0)
->Bloomberg - Üniversite Blockchain Toplulukları
+
 
 
 
