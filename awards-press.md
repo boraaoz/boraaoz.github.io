@@ -17,7 +17,6 @@ title: Awards & Press
 > Novel Biotechnological Approach for Recognition and Purification of Antibody: Lectin Affinity Membranes
 
 ## Press
-<br />
 
 * [Hürriyet Daily News - Taiwan International Science Fair ](https://www.hurriyet.com.tr/egitim/lise-ogrencisi-tayvanda-ucuncu-oldu-40734580) <br />
 * [Sabah Daily News - TISF](https://www.sabah.com.tr/egeli/2018/02/08/bora-izmirin-gururu-oldu) <br />
